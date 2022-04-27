@@ -1,3 +1,3 @@
-# Le nom du jeu
+# Color Switch
 
-> Placez ici la documentation de votre jeu tel que renseigné dans l'énoncé.
+> 
