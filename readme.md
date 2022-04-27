@@ -1,6 +1,6 @@
 # Color Switch
 
-##Présentation
+## Présentation
 
 Colors switch est un jeu mobile de type **arcade** développé par l'équipe **[Color Switch Phoenix LLC](https://colorswitch.co/about)**.
 
@@ -14,7 +14,7 @@ Voici la description du jeux dans toute les plateformes de téléchargement :
 
 Cela indique la popularité qu'a eu ce jeu.
 
-##Les règles du jeux
+## Les règles du jeux
 
 Les règles du jeux sont simple.  
 Le but est arriver à la ligne d'arriver en passant les obstacles.  
@@ -28,13 +28,13 @@ Durant la partie Nous pouvons récupérer des étoiles servant de monnaie dans l
 
 ![Gif du jeu](video/color_switch_recording.gif)  
 
-##Règles récupérée ou adaptée  
+## Règles récupérée ou adaptée  
 
 Je vais principalement garder les même règles que le jeux d'origine.  
 Il est vrai que le jeux possède une petite quinzaine de mode de jeux différents, cepandant,
 Je vais réaliser le mode classique expliquer ci-dessus.
 
-##To Do list  
+## To Do list  
 - [ ] réaliser le fond  
 - [ ] dessiner les obstacles  
 - [ ] dessiner la balle  
