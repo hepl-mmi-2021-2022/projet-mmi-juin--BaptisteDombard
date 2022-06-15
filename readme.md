@@ -35,7 +35,7 @@ Il est vrai que le jeux possède une petite quinzaine de mode de jeux différent
 Je vais réaliser le mode classique expliquer ci-dessus.
 
 ## To Do list  
-- [ ] réaliser le fond  
+- [X] réaliser le fond  
 - [ ] dessiner les obstacles  
 - [ ] dessiner la balle  
 - [ ] gérer les collisions  
